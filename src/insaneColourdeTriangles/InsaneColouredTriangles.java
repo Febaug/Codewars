@@ -6,6 +6,7 @@ public class InsaneColouredTriangles {
 		String newRow = "";
 		String temp;
 		int rowLength;
+
 		while (row.length() > 1) {
 			rowLength = row.length();
 			for (int i = 0; i < rowLength - 1; i++) {
